@@ -1,0 +1,11 @@
+export const ADDITION = 'ADDITION';
+export const SUBTRACTION = 'SUBTRACTION';
+export const FIRSTNAME = 'FIRSTNAME';
+export const LASTNAME = 'LASTNAME';
+export const EMAIL = 'EMAIL';
+export const PASSWORD = 'PASSWORD';
+export const CONFIRMPASSWORD = 'CONFIRMPASSWORD';
+export const SIGNUP = 'SIGNUP';
+export const SIGNUPERROR = 'SIGNUPERROR';
+export const SIGNIN = 'SIGNIN';
+export const VERIFYTOKEN = 'VERIFYTOKEN';
